@@ -1,9 +1,7 @@
 # Mini Project 1: Product Information System (Desain Konseptual)
 
 ## Deskripsi Proyek
-Proyek ini merupakan dokumentasi cetak biru (*blueprint*) untuk merancang arsitektur Sistem Manajemen Data Informasi Produk. 
-
-Sesuai dengan pedoman tugas **Sesi Tanpa Coding / Pengetikan Kode**, repositori ini tidak berisi berkas program PHP (*executable*), melainkan rancangan logika prosedural dan struktur data yang dipecah ke dalam tiga lapisan (*Separation of Concerns*).
+Proyek ini merupakan dokumentasi cetak biru (*blueprint*) untuk merancang arsitektur Sistem Manajemen Data Informasi Produk. 
 
 ## Struktur Arsitektur Sistem
 
